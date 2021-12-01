@@ -1,8 +1,8 @@
 [package]
 name = "wasmer-as"
 version = "0.4.1-alpha.0"
-authors = ["Andrey Kuznetsov <fear@loathing.in>"]
-edition = "2018"
+authors = ["Andrey Kuznetsov <fear@loathing.in>", "Adrien Zinger <zinger.ad@gmail.com>"]
+edition = "2021"
 license = "Apache-2.0"
 description = "Helpers to read and write memory in AssemblyScript wasm modules executing in wasmer-runtime"
 keywords = ["assemblyscript", "assembly-script", "wasm", "wasmer"]

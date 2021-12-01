@@ -1,6 +1,6 @@
 # Wasmer and AssemblyScript
 
-This project is a fork from the original [wasmer-as](https://github.com/onsails/wasmer-as) project
+This project is a fork from the original [wasmer-as](https://github.com/onsails/wasmer-as) ⭐ project
 
 *Read and write from rust to webassembly*
 
